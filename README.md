@@ -5,12 +5,13 @@ In 2018 I decided to migrate to the technology area to codify a better world eve
 
 I'm a {frontend} developer. Also taking the opportunity to further explore the world of design, ui / ux and accessibility. 
   
-## Hobbies
-<img alt="Crossfit" src="https://img.shields.io/badge/SPORTS-CROSSFIT, TREKKING, YOGA-black?style=for-the-badge" />
+## I like it...
 <img alt="Books" src="https://img.shields.io/badge/BOOKS-TECH,%20PERSONAL%20IMPROVEMENT-black?style=for-the-badge" />
+<img alt="Crossfit" src="https://img.shields.io/badge/SPORTS-CROSSFIT, TREKKING, YOGA-black?style=for-the-badge" />
+<img alt="Drinks" src="https://img.shields.io/badge/DRINKS-COFFEE, TEA, BEER-black?style=for-the-badge" />
 <img alt="Food" src="https://img.shields.io/badge/FOOD-ASIAN, PIZZA, PUDIM, CAKE, ICE CREAM-black?style=for-the-badge" />
-<img alt="Watch" src="https://img.shields.io/badge/WATCH-ANIME, DORAMA, SERIES-black?style=for-the-badge" />
 <img alt="Therapy" src="https://img.shields.io/badge/THERAPY-DO NAILS, COOK-black?style=for-the-badge" />
+<img alt="Watch" src="https://img.shields.io/badge/WATCH-ANIME, DORAMA, SERIES-black?style=for-the-badge" />
 
 ## Find me around the web
 <div align="flex-start">
