@@ -21,3 +21,5 @@ I'm a {frontend} developer. Also taking the opportunity to further explore the w
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/bianonato_)](https://twitter.com/bianonato_)
 
 </div>
+
+![Snake animation](https://github.com/beatriznonato/beatriznonato/blob/output/github-contribution-grid-snake.svg)
