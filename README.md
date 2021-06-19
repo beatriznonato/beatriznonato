@@ -1,25 +1,59 @@
-# Hi there 👋, I'm Beatriz!
-  
-## About me
-In 2018 I decided to migrate to the technology area to codify a better world every day.
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=beatriznonato&repo=beatriznonato&countColorcountColor)
 
-I'm a {frontend} developer. Also taking the opportunity to further explore the world of design, ui / ux and accessibility. 
-  
-## I like it...
-<img alt="Books" src="https://img.shields.io/badge/BOOKS-TECH,%20PERSONAL%20IMPROVEMENT-black?style=for-the-badge" />
-<img alt="Crossfit" src="https://img.shields.io/badge/SPORTS-CROSSFIT, TREKKING, YOGA-black?style=for-the-badge" />
-<img alt="Drinks" src="https://img.shields.io/badge/DRINKS-COFFEE, TEA, BEER-black?style=for-the-badge" />
-<img alt="Food" src="https://img.shields.io/badge/FOOD-ASIAN, PIZZA, PUDIM, CAKE, ICE CREAM-black?style=for-the-badge" />
-<img alt="Therapy" src="https://img.shields.io/badge/THERAPY-DO NAILS, COOK-black?style=for-the-badge" />
-<img alt="Watch" src="https://img.shields.io/badge/WATCH-ANIME, DORAMA, SERIES-black?style=for-the-badge" />
+<img align="right" src="https://user-images.githubusercontent.com/35739995/122646460-a3497f80-d0f5-11eb-9377-deb2171e6303.png" width="260" />
 
-## Find me around the web
-<div align="flex-start">
-  
-[![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/beatriznonato)](https://github.com/beatriznonato)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriznonato/)](https://www.linkedin.com/in/beatriznonato/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/bianonato_)](https://twitter.com/bianonato_)
-
+<div align="center">
+ <h1> 
+   <a href="https://fontmeme.com/fonts/libre-franklin-font/"><img src="https://fontmeme.com/permalink/210619/ad9cf6ceb4bed7140c5438f1a2947762.png" alt="libre-           franklin-font" border="0">
+   </a>
+ </h1>
 </div>
+
+<p align="center">
+   <a href="https://www.linkedin.com/in/beatriznonato/">
+    <img alt="logo Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriznonato/">
+  </a>
+  
+<a href="https://twitter.com/bianonato_">
+    <img alt="logo Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bianonato_">
+  </a>
+</p>
+
+<h4 align="center"> 
+  In 2018 I decided to migrate to the technology area to codify a better world every day.
+
+  I'm a {frontend} developer. Also taking the opportunity to further explore the world of design, UI/UX and accessibility. 🚀
+</h4>
+
+<br>
+
+<p align="center">
+  <!-- HTML Icon -->
+  <img src="https://user-images.githubusercontent.com/35739995/122654956-2b934900-d125-11eb-94b1-58102216fa9f.png">&nbsp;
+  <!-- CSS Icon -->
+  <img src="https://user-images.githubusercontent.com/35739995/122655003-80cf5a80-d125-11eb-9718-c0d416a29986.png">&nbsp;
+  <!-- JS Icon -->
+  <img src="https://user-images.githubusercontent.com/35739995/122655023-a78d9100-d125-11eb-89b8-f006041d9d4a.png">&nbsp;
+  <!-- React Icon -->
+  <img src="https://user-images.githubusercontent.com/35739995/122655062-094dfb00-d126-11eb-963a-44b2ef1528f2.png">&nbsp;
+  <!-- Graphql Icon -->
+  <img src="https://user-images.githubusercontent.com/35739995/122655295-a3627300-d127-11eb-831b-22fe3c2b4814.png">&nbsp;
+  <!-- Python Icon -->
+  <img height='40' src="https://user-images.githubusercontent.com/35739995/122655475-c0e40c80-d128-11eb-9608-c8667123c1b4.png">&nbsp;
+  <!-- Git Icon -->
+  <img src="https://user-images.githubusercontent.com/35739995/122655117-7c577180-d126-11eb-9b30-3591b1252bb5.png">&nbsp;
+</p>
+
+<table align="left">
+  <row>
+    <td>
+     <!-- Card -->
+      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=beatriznonato&layout=compact&theme=dark'>
+    </td>
+    <td>
+      <img height='172' src='https://github-readme-stats.vercel.app/api?username=beatriznonato&show_icons=true&theme=dark'>
+    </td>
+  </row>
+</table> 
 
 ![Snake animation](https://github.com/beatriznonato/beatriznonato/blob/output/github-contribution-grid-snake.svg)
