@@ -13,10 +13,6 @@
    <a href="https://www.linkedin.com/in/beatriznonato/">
     <img alt="logo Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriznonato/">
   </a>
-  
-<a href="https://twitter.com/bianonato_">
-    <img alt="logo Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/bianonato_">
-  </a>
 </p>
 
 <h4 align="center"> 
