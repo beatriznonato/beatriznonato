@@ -1,4 +1,3 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=beatriznonato&repo=beatriznonato&countColorcountColor)
 
 <img align="right" src="https://user-images.githubusercontent.com/35739995/122646460-a3497f80-d0f5-11eb-9377-deb2171e6303.png" width="260" />
 
